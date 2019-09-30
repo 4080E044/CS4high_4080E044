@@ -17,15 +17,15 @@ Ch16-19
 ```
 list1=range(8)
 list1
+
 range(0, 8)
 range(8)
+
 range(0, 8)
 range(0, 8)
 ```
 ```
 list(range(8))
-```
-```
 答案
 [0, 1, 2, 3, 4, 5, 6, 7]
 ```
