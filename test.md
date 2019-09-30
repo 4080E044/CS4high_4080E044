@@ -15,10 +15,31 @@ Ch16-19
 # range的技術
 ## range的技術(1)
 ```
-list1=list(range(6))
+list1=range(8)
 list1
+```
+range(0, 8)
+```
+```
+range(8)
+```
+```
+range(0, 8)
+```
+range(0, 8)
+```
+list(range(8))
 ```
 ```
 答案
-[0, 1, 2, 3, 4, 5]
+[0, 1, 2, 3, 4, 5, 6, 7]
+```
+## range的技術(2)
+```
+list2=list(range(1,8))
+list2
+```
+```
+答案
+[1, 2, 3, 4, 5, 6, 7]
 ```
