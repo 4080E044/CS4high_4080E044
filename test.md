@@ -17,11 +17,9 @@ Ch16-19
 ```
 list1=range(8)
 list1
-
 range(0, 8)
+
 range(8)
-
-range(0, 8)
 range(0, 8)
 ```
 ```
