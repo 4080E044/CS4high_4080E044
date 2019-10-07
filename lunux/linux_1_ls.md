@@ -22,7 +22,7 @@ total 12
 -rw-rw-r-- 1 root root 68 Nov 20  2017 hex.txt
 
 ```
-##ls -al
+## ls -al
 ```
 lab@29d4cf5af0ab:~$ ls -al
 total 36
